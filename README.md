@@ -2,8 +2,8 @@
 > Documenting 75 days of hands-on growth in cybersecurity, GRC, and personal development.
 
 **Author:** Kokui Agbenu  
-**Start Date:** 25-10-2025  
-**End Date:** 08-01-2026  
+**Start Date:** 26-10-2025  
+**End Date:** 09-01-2026  
 
 ---
 
