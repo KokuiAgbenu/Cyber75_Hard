@@ -69,4 +69,4 @@ git push
 
 ## 🔁 Tomorrow’s Focus:
 
-* Completing the programmatic remediation sections in Windows and Linux 
+* Completing programmatic remediation of Windows and Linux machine labs.
