@@ -1,28 +1,28 @@
-\# GitHub Commits Log
+# GitHub Commits Log
 
 
 
-\## Day 01
+## Day 01
 
-\*\*Date:\*\* 26-10-2025
+**Date:** 26-10-2025
 
-\- Labs committed:
+Labs committed:
 
-&nbsp; - `Labs/Day01\_LabName/lab\_notes.md`
+-  `Labs/Day01\_LabName/lab\_notes.md`
 
-\- Scripts added:
+Scripts added:
 
-&nbsp; - `**Labs/Day01\_LabName/scripts/script1.py`**
+- `**Labs/Day01\_LabName/scripts/script1.py`**
 
-\- Other GitHub activity:
+Other GitHub activity:
 
-&nbsp; - Made updates to README.md
+- Made updates to README.md
 
-\- Notes / lessons:
+Notes / lessons:
 
-&nbsp; - Learned how to structure Markdown templates
+- Learned how to structure Markdown templates
 
-&nbsp; - Practiced committing and pushing changes
+- Practiced committing and pushing changes
 
 
 
