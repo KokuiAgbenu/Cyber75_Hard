@@ -14,7 +14,7 @@
 
 ## ⚡ Insight or Lesson:
 
-* Windows by default hides file extensions by default. To change this go to the folder with the wrong file > View > Show > File name extensions. Then you can rename a file with the correct file extension e.g. README.md.txt (incorrect) to README.md (correct).
+* Windows hides file extensions by default. To change this go to the folder with the wrong file > View > Show > File name extensions. Then you can rename a file with the correct file extension e.g. README.md.txt (incorrect) to README.md (correct).
 * How to update a *single GitHub file*:
 
 cd path/to/Cyber75Hard        # Navigate to your repo
