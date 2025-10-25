@@ -5,12 +5,12 @@
 ## 🌤️ Wins Today:
 
 * Created my GitHub repo for the challenge as well as the file structure and templates.
-* Understand the relationship between local GitHub and the cloud version of GitHub more. 
+* Understand the relationship between local GitHub and the cloud version of GitHub more.
 * Practiced pushing commits from my local machine to the remote GitHub repository.
 
 ## 🧩 Challenges / Friction:
 
-* Never having used GitHub locally it took some learning and patience as I first didn't rename my README files correctly but I got some help from ChatGPT. 
+* Never having used GitHub locally it took some learning and patience as I first didn't rename my README files correctly but I got some help from ChatGPT.
 
 ## ⚡ Insight or Lesson:
 
