@@ -21,8 +21,8 @@ Other GitHub activity:
 Notes / lessons:
 
 - Learned how to structure Markdown templates
-
 - Practiced committing and pushing changes
+- Practiced programmatic remediation
 
 
 
