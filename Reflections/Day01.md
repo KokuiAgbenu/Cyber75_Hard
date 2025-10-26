@@ -7,6 +7,7 @@
 * Created my GitHub repo for the challenge as well as the file structure and templates.
 * Understand the relationship between local GitHub and the cloud version of GitHub more.
 * Practiced pushing commits from my local machine to the remote GitHub repository.
+* Went through how to do programmatic remediation of vulnerabilities on Windows and Linux machines.
 
 ## 🧩 Challenges / Friction:
 
@@ -69,4 +70,4 @@ git push
 
 ## 🔁 Tomorrow’s Focus:
 
-* Completing programmatic remediation of Windows and Linux machine labs.
+* Starting vulnerability management implementation project.
